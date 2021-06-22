@@ -1,4 +1,4 @@
-- 👋 Hi, I’m arthur
+- 👋 Hi, I’m Arthur
 - 👀 I’m interested in FiveM programming, and .lua
 - 🎄 I’m from Brasil
 - 🌱 I’m currently learning .lua
